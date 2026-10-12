@@ -1,0 +1,19 @@
+{
+	"schemaVersion": 1,
+	"id": "infinitycastle",
+	"version": "${version}",
+	"name": "Infinity Castle Dimension",
+	"description": "Mugen Jou style infinite castle dimension with a portal.",
+	"authors": ["Aashu"],
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["com.aashu.infinitycastle.InfinityCastleMod"]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
