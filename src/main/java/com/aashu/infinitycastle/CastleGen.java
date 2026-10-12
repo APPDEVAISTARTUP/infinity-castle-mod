@@ -29,10 +29,10 @@ public final class CastleGen {
     static final BlockState BIRCH = Blocks.BIRCH_PLANKS.defaultBlockState();
     static final BlockState DOAK = Blocks.DARK_OAK_PLANKS.defaultBlockState();
     static final BlockState RNB = Blocks.RED_NETHER_BRICKS.defaultBlockState();
-    static final BlockState GLASS = Blocks.WHITE_STAINED_GLASS.defaultBlockState();
+    static final BlockState GLASS = Blocks.GLASS.defaultBlockState();
     static final BlockState TILES = Blocks.DEEPSLATE_TILES.defaultBlockState();
     static final BlockState GOLD = Blocks.GOLD_BLOCK.defaultBlockState();
-    static final BlockState RCONC = Blocks.RED_CONCRETE.defaultBlockState();
+    static final BlockState RCONC = Blocks.RED_NETHER_BRICKS.defaultBlockState();
     static final BlockState SEA = Blocks.SEA_LANTERN.defaultBlockState();
     static final BlockState SHROOM = Blocks.SHROOMLIGHT.defaultBlockState();
     static final BlockState CHAIN = Blocks.IRON_CHAIN.defaultBlockState();
